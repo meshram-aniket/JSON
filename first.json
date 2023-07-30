@@ -1,0 +1,12 @@
+{
+    "name": "aniket",
+    "score": 55.34,
+    "isAdmin": false,
+    "License": null,
+    "shopItem": ["food", "clother", "sunflower oil"],
+    "myObj": {
+        "NAME": "Meshram",
+        "ROLL": 33,
+        "shopItem2": ["sugar", "oil", "tea", "soap", {"a": true}]
+    }
+}
