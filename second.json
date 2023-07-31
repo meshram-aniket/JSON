@@ -1,0 +1,12 @@
+{
+    "name": "aniket", 
+    "roll": 45, 
+    "Address": "jalaram nagar Amravati",
+    "Student": ["aniket", 35, "jalaram nagar"],
+    "obj": [
+        {"name": "aniket", "marks": 66},
+        {"name": "aman", "marks": 65},
+        {"name": "nayan", "marks": 68, "a":["orange"]}
+    ]
+
+}
